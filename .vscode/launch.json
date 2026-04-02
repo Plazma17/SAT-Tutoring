@@ -13,12 +13,6 @@
         },
         {
             "type": "mix_task",
-            "name": "mix (Default task)",
-            "request": "launch",
-            "projectDir": "${workspaceRoot}"
-        },
-        {
-            "type": "mix_task",
             "name": "mix test",
             "request": "launch",
             "task": "test",
